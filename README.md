@@ -7,8 +7,7 @@ This course was a complete journey through the **ML lifecycle on OCI** — from 
 
 ## 📜 Progress 
 
-![OCI Data Science Professional Progress] OCI DS PROGRESS.jpg
-
+(![OCI Data Science Professional Progress](OCI%20DS%20PROGRESS.jpg)
 
 ---
 
