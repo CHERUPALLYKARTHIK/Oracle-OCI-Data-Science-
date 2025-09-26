@@ -5,11 +5,10 @@ This course was a complete journey through the **ML lifecycle on OCI** — from 
 
 ---
 
-## 📜 Certificate
+## 📜 Progress 
 
-![OCI Data Science Professional Certificate](certificate.png)
+![OCI Data Science Professional Progress](OCI DS PROGRESS.png)
 
-*(Add your certificate image here so people can see you earned it!)*
 
 ---
 
