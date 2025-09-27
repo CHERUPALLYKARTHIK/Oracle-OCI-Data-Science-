@@ -64,6 +64,8 @@ This gave me confidence in building a **secure, production-ready ML pipeline**.
 - Mapped ML solutions to **real business problems** like churn prediction, forecasting, and NLP  
 
 ---
+## 🎥 My Experience & Video Presentation
+👉 [Click here to watch my experience and what I learned from this course](https://drive.google.com/file/d/1eqEa1K91hxCXAVyQNL2DWoYAGSwUeX6E/view?usp=sharing)
 
 ## 🚀 Why This Matters
 
